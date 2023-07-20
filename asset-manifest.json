@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Westayactive_website/static/css/main.3d42bca4.css",
+    "main.js": "/Westayactive_website/static/js/main.86a03666.js",
+    "static/js/988.c2b12537.chunk.js": "/Westayactive_website/static/js/988.c2b12537.chunk.js",
+    "static/media/duck.gif": "/Westayactive_website/static/media/duck.97b6c1d2b7bb481ce3ff.gif",
+    "static/media/dp.png": "/Westayactive_website/static/media/dp.fdd1355a734fe930fbf1.png",
+    "static/media/wsalogo.png": "/Westayactive_website/static/media/wsalogo.5d8144588bce57fffdd3.png",
+    "static/media/logo.png": "/Westayactive_website/static/media/logo.bf3b9076b4a531565f9a.png",
+    "static/media/marsh.png": "/Westayactive_website/static/media/marsh.a2d37d4d5555a5163818.png",
+    "static/media/bau.png": "/Westayactive_website/static/media/bau.a080f490e27669b9928b.png",
+    "static/media/soor.png": "/Westayactive_website/static/media/soor.89d965535aafd7081f66.png",
+    "static/media/mrb.png": "/Westayactive_website/static/media/mrb.0c33f57af412a311b66c.png",
+    "static/media/instagram.png": "/Westayactive_website/static/media/instagram.a88b1975994a6253a2d6.png",
+    "static/media/0.png": "/Westayactive_website/static/media/0.3215708d17824c23e1ab.png",
+    "static/media/2.png": "/Westayactive_website/static/media/2.80fef716e9a8b3bf1b95.png",
+    "static/media/whychooseus.png": "/Westayactive_website/static/media/whychooseus.6d1ae78414937c0e99de.png",
+    "static/media/1.png": "/Westayactive_website/static/media/1.6a9b990f57de7cd88bfd.png",
+    "static/media/7.png": "/Westayactive_website/static/media/7.d1693d8ca1da8e63972d.png",
+    "static/media/5.png": "/Westayactive_website/static/media/5.10599735b7c2266ae5df.png",
+    "static/media/6.png": "/Westayactive_website/static/media/6.a9a295133214f6105d23.png",
+    "static/media/3.png": "/Westayactive_website/static/media/3.854f7be3acd29cd433fd.png",
+    "static/media/4.png": "/Westayactive_website/static/media/4.a7b383b04930d29ebc9d.png",
+    "static/media/twitter.png": "/Westayactive_website/static/media/twitter.2227fecb70e3a120d27e.png",
+    "static/media/discord.png": "/Westayactive_website/static/media/discord.b47f602fae644ab66e38.png",
+    "index.html": "/Westayactive_website/index.html",
+    "main.3d42bca4.css.map": "/Westayactive_website/static/css/main.3d42bca4.css.map",
+    "main.86a03666.js.map": "/Westayactive_website/static/js/main.86a03666.js.map",
+    "988.c2b12537.chunk.js.map": "/Westayactive_website/static/js/988.c2b12537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d42bca4.css",
+    "static/js/main.86a03666.js"
+  ]
+}
