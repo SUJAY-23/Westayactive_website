@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Westayactive_website/static/css/main.3d42bca4.css",
-    "main.js": "/Westayactive_website/static/js/main.86a03666.js",
+    "main.css": "/Westayactive_website/static/css/main.cb8b5c75.css",
+    "main.js": "/Westayactive_website/static/js/main.034d341c.js",
     "static/js/988.c2b12537.chunk.js": "/Westayactive_website/static/js/988.c2b12537.chunk.js",
     "static/media/duck.gif": "/Westayactive_website/static/media/duck.97b6c1d2b7bb481ce3ff.gif",
     "static/media/dp.png": "/Westayactive_website/static/media/dp.fdd1355a734fe930fbf1.png",
@@ -24,12 +24,12 @@
     "static/media/twitter.png": "/Westayactive_website/static/media/twitter.2227fecb70e3a120d27e.png",
     "static/media/discord.png": "/Westayactive_website/static/media/discord.b47f602fae644ab66e38.png",
     "index.html": "/Westayactive_website/index.html",
-    "main.3d42bca4.css.map": "/Westayactive_website/static/css/main.3d42bca4.css.map",
-    "main.86a03666.js.map": "/Westayactive_website/static/js/main.86a03666.js.map",
+    "main.cb8b5c75.css.map": "/Westayactive_website/static/css/main.cb8b5c75.css.map",
+    "main.034d341c.js.map": "/Westayactive_website/static/js/main.034d341c.js.map",
     "988.c2b12537.chunk.js.map": "/Westayactive_website/static/js/988.c2b12537.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d42bca4.css",
-    "static/js/main.86a03666.js"
+    "static/css/main.cb8b5c75.css",
+    "static/js/main.034d341c.js"
   ]
 }
