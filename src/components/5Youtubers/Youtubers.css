@@ -1,0 +1,73 @@
+.plans-container{
+    margin-top: -4rem;
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    position: relative;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin: 2px;
+
+}
+.c-1{
+    text-align: center;
+    background: var(--caloryCard);
+    color: white;
+
+}
+.c-1>img{
+    width: 15rem;
+    height: 15rem;
+    margin: 12px 24px;
+}
+.cards>:nth-child(1){
+    align-items: center;
+    justify-content: center;
+}
+.c-2{
+    text-align: center;
+    background: var(--planCard);
+    color: white;
+    width: 15rem;
+    height: 30rem;
+}
+.c-2>img{
+    width: 15rem;
+    height: 15rem;
+    margin: 12px 24px;
+}
+
+.cards>:nth-child(2){
+    align-items: center;
+    justify-content: center;
+}
+.c-3{
+    text-align: justify;
+    background: var(--caloryCard);
+    color: white;
+}
+.c-3>img{
+    width: 15rem;
+    height: 15rem;
+    margin: 12px 24px;
+}
+.cards>:nth-child(3){
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and ( max-width: 980px){
+    .plans{
+        flex-direction: column;
+    }
+    .cards{
+        min-width: 310px;
+        flex-direction: column;
+    }
+}
