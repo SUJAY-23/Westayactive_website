@@ -14,7 +14,7 @@ const Footer = () => {
       </div>
       <div className="footer">
         <div className="social-links">
-          <a style={{ textDecoration: 'none' }} href="https://discord.gg/wsa" target='blank'>
+          <a style={{ textDecoration: 'none' }} href="https://discord.com/invite/3nxdZeg57m" target='blank'>
             <img src={Discord} alt="" />
           </a>
           <a style={{ textDecoration: 'none' }} href="https://twitter.com/we_stay_active?" target='blank'>

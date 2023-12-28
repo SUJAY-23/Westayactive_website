@@ -79,7 +79,7 @@ const Hero = () => {
       </div>
       {/* right side */}
       <div className='right-h'>
-        <a href="https://discord.gg/wsa" target = "blank">
+        <a href="https://discord.com/invite/3nxdZeg57m" target = "blank">
 
           <motion.button
 

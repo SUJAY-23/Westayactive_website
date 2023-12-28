@@ -23,7 +23,7 @@ const Programs = () => {
 
             <div className="join-now">
               <a style={{ textDecoration: 'none' }}
-              href="https://discord.gg/wsa" target = "blank">
+              href="https://discord.com/invite/3nxdZeg57m" target = "blank">
               <samp className='btn'
               style={{ color: 'white', backgroundColor: 'transparent', width: '4rem', height: '1rem', border: '2px solid white' }}
               >Join Now</samp>
