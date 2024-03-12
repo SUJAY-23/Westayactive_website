@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Westayactive_website/static/css/main.cb8b5c75.css",
-    "main.js": "/Westayactive_website/static/js/main.28e6ffa6.js",
+    "main.js": "/Westayactive_website/static/js/main.b9b051d6.js",
     "static/js/988.c2b12537.chunk.js": "/Westayactive_website/static/js/988.c2b12537.chunk.js",
     "static/media/duck.gif": "/Westayactive_website/static/media/duck.97b6c1d2b7bb481ce3ff.gif",
     "static/media/dp.png": "/Westayactive_website/static/media/dp.fdd1355a734fe930fbf1.png",
@@ -25,11 +25,11 @@
     "static/media/discord.png": "/Westayactive_website/static/media/discord.b47f602fae644ab66e38.png",
     "index.html": "/Westayactive_website/index.html",
     "main.cb8b5c75.css.map": "/Westayactive_website/static/css/main.cb8b5c75.css.map",
-    "main.28e6ffa6.js.map": "/Westayactive_website/static/js/main.28e6ffa6.js.map",
+    "main.b9b051d6.js.map": "/Westayactive_website/static/js/main.b9b051d6.js.map",
     "988.c2b12537.chunk.js.map": "/Westayactive_website/static/js/988.c2b12537.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb8b5c75.css",
-    "static/js/main.28e6ffa6.js"
+    "static/js/main.b9b051d6.js"
   ]
 }
