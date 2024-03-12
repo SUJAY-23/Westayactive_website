@@ -20,7 +20,7 @@ const Clan = () => {
                         <Card.Body>
                             <Card.Title>We Stay Active</Card.Title>
                             <Card.Text>
-                            Th15 Legend trophy pusher (Champ 1)  
+                            Max Legend trophy pusher (Champ 1)  
                             </Card.Text>
                             <a style={{ textDecoration: 'none' }} href="https://link.clashofclans.com/en?action=OpenClanProfile&tag=28P2U8VY8">
                                 <samp className='btn'
@@ -36,7 +36,7 @@ const Clan = () => {
                         <Card.Body>
                             <Card.Title>WSA 2</Card.Title>
                             <Card.Text>
-                            Th15 Legend trophy pusher (Champ 1)
+                            Max Legend trophy pusher (Champ 1)
                             </Card.Text>
                             <a style={{ textDecoration: 'none' }} href="https://link.clashofclans.com/en?action=OpenClanProfile&tag=2PQV0Y9P9">
                                 <samp className='btn'
@@ -52,7 +52,7 @@ const Clan = () => {
                         <Card.Body>
                             <Card.Title>WSA 3</Card.Title>
                             <Card.Text>
-                            Non Pushers Th15 (Champ 1)
+                            Non Pushers Th15&16 (Champ 1)
                             </Card.Text>
                             <a style={{ textDecoration: 'none' }} href="https://link.clashofclans.com/en?action=OpenClanProfile&tag=2Y900P2YG">
                                 <samp className='btn'
@@ -68,7 +68,7 @@ const Clan = () => {
                         <Card.Body>
                             <Card.Title>WSA 4</Card.Title>
                             <Card.Text>
-                            Non Pushers Th15 (Champ 1)
+                            Non Pushers Th15&16 (Champ 1)
                             </Card.Text>
                             <a style={{ textDecoration: 'none' }} href="https://link.clashofclans.com/en?action=OpenClanProfile&tag=29JPJG998">
                                 <samp className='btn'
