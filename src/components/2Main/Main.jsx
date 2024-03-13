@@ -38,7 +38,7 @@ const Hero = () => {
           </div>
           <div>
             <samp>
-              We stay active "Wsa" has many high level "Ch1" & Ch2" clans for top tier "Th15" game play, we are mainly into pushing, esports, champ cwls, wars, and competitve game play.
+              We stay active "Wsa" has many high level "Ch1" & Ch2" clans for top tier "Th16" game play, we are mainly into pushing, esports, champ cwls, wars, and competitve game play.
             </samp>
           </div>
         </div>
